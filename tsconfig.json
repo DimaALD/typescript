@@ -64,6 +64,8 @@
     "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
   },
   "exclude": [
-    "./TypeScript_Basics/*.ts"
+    "basics/*.ts",
+    "classes&interfaces/*.ts",
+    "advanced_types/*.ts"
   ]
 }
